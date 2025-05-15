@@ -17,23 +17,23 @@ All raster environmental covariates used in mapping are available here: https://
 
 Properties included in SOLUS100:
 
-Bulk density (oven dry)
-Calcium carbonate
-Cation Exchange Capacity (pH 7)
-Clay
-Coarse sand
-Electrical Conductivity (sat. paste)
-Effective cation exchange capacity
-Fine sand
-Gypsum (in <20 mm fraction)
-Medium sand
-pH (1:1 method)
-Rock content
-Sand
-Sodium adsorption ratio
-Silt
-Soil organic carbon
-Very coarse sand
-Very fine sand
-Depth to bedrock
-Depth to restriction
+1. Bulk density (oven dry)
+2. Calcium carbonate
+3. Cation Exchange Capacity (pH 7)
+4. Clay
+5. Coarse sand
+6. Electrical Conductivity (sat. paste)
+7. Effective cation exchange capacity
+8. Fine sand
+9. Gypsum (in <20 mm fraction)
+10. Medium sand
+11. pH (1:1 method)
+12. Rock content
+13. Sand
+14. Sodium adsorption ratio
+15. Silt
+16. Soil organic carbon
+17. Very coarse sand
+18. Very fine sand
+19. Depth to bedrock
+20. Depth to restriction
